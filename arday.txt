@@ -1,0 +1,9 @@
+jaamac
+siyaad
+faarah
+geedi 
+cabdi
+
+
+git config --global user.name "culusoow-c"
+git config --global user.email "claahiculusoow@gmail.com"
